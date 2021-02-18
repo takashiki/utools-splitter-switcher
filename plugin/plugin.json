@@ -1,0 +1,16 @@
+{
+	"pluginName": "splitter-switcher",
+	"author": "takashiki",
+	"description": "快速切换列表项目分隔符，如英文逗号、空格、换行等",
+	"main": "index.html",
+	"version": "0.1.0",
+	"logo": "logo.png",
+	"features": [{
+		"code": "split",
+		"explain": "快速切换列表项目分隔符",
+		"cmds": ["split", "分隔符"]
+	}],
+	"pluginSetting": {
+		"single": false
+	}
+}
